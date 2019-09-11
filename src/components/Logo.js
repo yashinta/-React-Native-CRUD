@@ -24,7 +24,7 @@ return(
 
 <Image  style={{width:40, height: 70}}
 
-source={require('../images/logo.png')}/>
+source={require('../images/4.png')}/>
 
 <Text style={styles.logoText}>Welcome to My app.</Text>
 

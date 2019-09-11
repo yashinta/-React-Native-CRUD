@@ -108,7 +108,7 @@ button: {
 
 width:300,
 
-backgroundColor:'#1c313a',
+backgroundColor:'#ff502f',
 
 borderRadius: 25,
 
